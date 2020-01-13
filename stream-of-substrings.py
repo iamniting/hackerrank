@@ -1,5 +1,6 @@
 #!/bin/python3
 # https://www.hackerearth.com/pt-br/problem/algorithm/print-all-substrings/
+
 import doctest
 
 
