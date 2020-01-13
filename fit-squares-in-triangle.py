@@ -5,6 +5,16 @@ import doctest
 
 
 def getSquareCount(base):
+    """
+    >>> getSquareCount(1)
+    0
+    >>> getSquareCount(5)
+    1
+    >>> getSquareCount(8)
+    6
+    >>> getSquareCount(10)
+    10
+    """
     blocks = int(base/2) - 1
 
     # Sum of first n natural numbers
