@@ -1,7 +1,8 @@
 #!/bin/python3
-# https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
-from collections import Counter
 
+# https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
+
+from collections import Counter
 import doctest
 
 

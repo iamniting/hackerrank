@@ -1,4 +1,5 @@
 #!/bin/python3
+
 # https://www.hackerrank.com/challenges/game-with-cells/problem
 
 import doctest

@@ -1,4 +1,5 @@
 #!/bin/python3
+
 # https://www.codechef.com/problems/TRISQ
 
 import doctest
